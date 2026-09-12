@@ -8,5 +8,16 @@
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
     "badge": "Popular"
+  },
+  {
+    "id": 2,
+    "name": "Vue.js",
+    "category": "Frontend",
+    "description": "An approachable, performant, and versatile framework for building web user interfaces.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Versatile"
   }
+
 ]
