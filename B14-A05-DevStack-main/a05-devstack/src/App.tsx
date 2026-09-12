@@ -1,5 +1,7 @@
+import Footer from './components/footer';
 import Navbar from './components/nav';
 import Hero from './Hero';
+import TechSection from './techstation';
 
 function App() {
 
@@ -8,6 +10,8 @@ function App() {
     <>
       <Navbar />
       <Hero />
+      <TechSection />
+      <Footer />
     </>
   )
 }
